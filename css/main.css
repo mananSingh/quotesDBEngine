@@ -1,0 +1,17 @@
+#poster{
+	margin: 4em auto;
+	text-align: center;
+	font-size: 1.3em;
+}
+#menu a{
+	margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px;
+}
+#cloud{
+	text-align: center;
+	padding: 3%;
+}
+.allThoughts4Search{	
+}
