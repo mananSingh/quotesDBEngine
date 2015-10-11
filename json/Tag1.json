@@ -1,0 +1,21 @@
+[
+{
+   "header": "tag1",
+   "content": "Quote abc."
+},
+
+{
+   "header": "tag1",
+   "content": "Quote abc2."
+},
+
+{
+   "header": "tag1, tag X",
+   "content": "Quote abc3."
+},
+
+{
+   "header": "tag1",
+   "content": "Quote abc4."
+}
+]

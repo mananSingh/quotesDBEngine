@@ -1,4 +1,4 @@
-var tags = ["Tag1", "Tag2", "Tag3"];
+var tags = ["FileName1", "FileName2", "FileName3"];
 
 function allThoughtsGen(){
 	var output="";
