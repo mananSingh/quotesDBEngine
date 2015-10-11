@@ -1,5 +1,5 @@
 # quotesDBEngine
-"Good Thoughts" - A quote browsing web app engine using jQuery &amp; JSON
+A quote browsing web app engine using jQuery &amp; JSON
 
 ### Features
 The app has facilities of:
@@ -7,6 +7,7 @@ The app has facilities of:
 
 ### Applications
 Really basic at the moment, but can be transformed into:
+- a Quotes-application. (like "Good Thoughts: see another repo")
 - a 'life-terms-dictionary': different tags related to life. On each tag, some quotes defining/describing that tag, by famous personalities of all time.
 - a custom-Quote-manager app for everyone
 - etc.
@@ -17,7 +18,17 @@ All data is managed in JSON files.
 For each tag, there is a json file.
 In each json file(with syntax error), there are: "header":"", "content":"" - pairs.
 Eg(current): 
-In a file named: "Action.json"
+In a file named: "Tag1.json",
+```
+[{ "header":"Tag 1",
+  "content": "Thought 1..."
+},
+{"header":"Tag 2",
+  "content": "another thought here..."
+}
+]
+```
+Example: 
 ```
 [{ "header":"Action",
   "content": "a thought here..."
