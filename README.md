@@ -1,5 +1,5 @@
 # quotesDBEngine
-A quote browsing web app engine using jQuery &amp; JSON
+A quote browsing web app engine using jQuery Mobile &amp; JSON
 
 ### Features
 The app has facilities of:
