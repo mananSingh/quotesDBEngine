@@ -59,6 +59,11 @@ So, only these 2 things can be used to completely manipulate the whole engine:
 Other than this, obviously, the UI design, needs to be managed.
 Plus, any code improvement will be very very cool. (although, for basic use, no need)
 
+### Note on Usage
+
+Troubleshooting: The app will only work correctly when uploaded on a running server 
+(e.g. apache, app engine, etc.). The reason is the CORS request won't work otherwise. 
+And the CORS request is essential to fetch and use the .json files which this app uses.
 
 ### Further Possibilities of App
 
